@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/flosi/sebrae-eds/language-masters/en:/",
+    "/content/flosi/sebrae-eds/language-masters/en/:/en/",
+    "/content/flosi/sebrae-eds/configuration:/.helix/config.json",
+    "/content/flosi/sebrae-eds/metadata:/metadata.json",
+    "/content/flosi/sebrae-eds/redirects:/redirects.json",
+    "/content/flosi/sebrae-eds/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/flosi/sebrae-eds/",
+    "/content/dam/flosi/sebrae-eds/"
   ]
 }
